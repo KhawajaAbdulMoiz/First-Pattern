@@ -6,3 +6,7 @@
 
 ## For 3rd Pattern
 ![#rdprren](https://github.com/KhawajaAbdulMoiz/Patterns-In-C-/assets/156238498/4d9487e5-d653-4576-b5a8-84f7f471d61d)
+
+## For 4th Pattern
+![patrn3](https://github.com/KhawajaAbdulMoiz/Patterns-In-C-/assets/156238498/11ab20bd-20e1-4fe0-be59-2ecfc83d1efa)
+
