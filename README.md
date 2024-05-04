@@ -10,3 +10,6 @@
 ## For 4th Pattern
 ![patrn3](https://github.com/KhawajaAbdulMoiz/Patterns-In-C-/assets/156238498/11ab20bd-20e1-4fe0-be59-2ecfc83d1efa)
 
+## For 5th Pattern
+![Capture1](https://github.com/KhawajaAbdulMoiz/Patterns-In-C-/assets/156238498/bb556037-41f3-4122-9bbb-4e5100aeb471)
+
