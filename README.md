@@ -13,3 +13,6 @@
 ## For 5th Pattern
 ![Capture1](https://github.com/KhawajaAbdulMoiz/Patterns-In-C-/assets/156238498/bb556037-41f3-4122-9bbb-4e5100aeb471)
 
+## For 6th Pattern
+![aasda](https://github.com/KhawajaAbdulMoiz/Patterns-In-C-/assets/156238498/436bc2f3-e119-4a26-9641-389cc286a899)
+
